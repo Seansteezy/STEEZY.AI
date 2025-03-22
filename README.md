@@ -17,7 +17,7 @@ I love trying new things, creating cool projects, and sharing them with the comm
 
 ## Projects
 Here are some of the projects I’m currently working on:
-- **GURU Bot**: An automation tool designed to simplify tasks.
+- **STEEZY AI**: An automation tool designed to simplify tasks.
 - **Content Creation**: Videos, edits, and tutorials for my audience on YouTube and TikTok.
 
 You can explore the repositories and contribute if you want!
