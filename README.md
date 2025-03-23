@@ -1,5 +1,5 @@
 
-# 🚀 Steezy AI 🚀
+  # 🚀 Steezy AI 🚀
 
 <p align="center">
   <b>The AI bot that brings the Steeze! 😎</b><br>
