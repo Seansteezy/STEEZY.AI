@@ -18,7 +18,10 @@
   <!-- Made by Badge -->
   <a href="https://github.com/Seansteezy">
     <img src="https://img.shields.io/badge/Made%20By-SHAUN-blue?style=flat-square" alt="Made By Badge">
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSeansteezy%2FSTEEZY.AI?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSeansteezy%2FSTEEZY.AI.svg?type=shield"/></a>
   </a>
+  <a href="https://github.com/Seansteezy/STEEZY.AI/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Seansteezy/STEEZY.AI?label=Watching&style=social"></a>
+<a href="https://github.com/Seansteezy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Seansteezy?label=Followers&style=social"></a>
 </p>
 
 ---
