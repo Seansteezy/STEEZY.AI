@@ -8,12 +8,12 @@
 
 <p align="center">
   <!-- Stars Badge -->
-  <a href="https://github.com/Seansteezy/Steezy-AI/stargazers">
-    <img src="https://img.shields.io/github/stars/Seansteezy/Steezy-AI?style=social" alt="Stars Badge">
+  <a href="https://github.com/Seansteezy/STEEZY.AI/stargazers">
+    <img src="https://img.shields.io/github/stars/Seansteezy/STEEZY.AI?style=social" alt="Stars Badge">
   </a>
   <!-- Forks Badge -->
-  <a href="https://github.com/Seansteezy/Steezy-AI/forks">
-    <img src="https://img.shields.io/github/forks/Seansteezy/Steezy-AI?style=social" alt="Forks Badge">
+  <a href="https://github.com/Seansteezy/STEEZY.AI/forks">
+    <img src="https://img.shields.io/github/forks/Seansteezy/STEEZY-AI?style=social" alt="Forks Badge">
   </a>
   <!-- Made by Badge -->
   <a href="https://github.com/Seansteezy">
