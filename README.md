@@ -45,17 +45,17 @@ Follow these steps to get **Steezy AI** running on your local machine:
 
 2. Navigate to the project directory:
 
-cd Steezy.AI
+       cd Steezy.AI
 
 
 3. Install the necessary dependencies:
 
-npm install
+       npm install
 
 
 4. Start the bot:
 
-npm start
+        npm start
 
 
 
