@@ -41,7 +41,7 @@ Follow these steps to get **Steezy AI** running on your local machine:
 1. **Clone the repository:**
    
    ```bash
-   git clone https://github.com/Seansteezy/Steezy-AI.git
+   git clone https://github.com/Seansteezy/Steezy.AI.git
 
 2. Navigate to the project directory:
 
