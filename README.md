@@ -24,6 +24,13 @@
 <a href="https://github.com/Seansteezy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Seansteezy?label=Followers&style=social"></a>
 </p>
 
+## My github stats
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seansteezy/STEEZY.AI/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seansteezy/STEEZY.AI/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/STEEZY.AI//output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## ⚡ Features  
