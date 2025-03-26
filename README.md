@@ -13,7 +13,7 @@
   </a>
   <!-- Forks Badge -->
   <a href="https://github.com/Seansteezy/STEEZY.AI/forks">
-    <img src="https://img.shields.io/github/forks/Seansteezy/STEEZY-AI?style=social" alt="Forks Badge">
+    <img src="https://img.shields.io/github/forks/Seansteezy/STEEZY.AI?style=social" alt="Forks Badge">
   </a>
   <!-- Made by Badge -->
   <a href="https://github.com/Seansteezy">
@@ -28,10 +28,10 @@
 
 ## ⚡ Features  
 - **AI-Powered Responses** – Smart and engaging replies  
-- **Customizable Commands** – Personalize Steezy AI to fit your needs  
+- **Customizable Commands** – Personalize Steezy.AI to fit your needs  
 - **Multi-Platform Support** – Works on Discord, Telegram, and more  
 - **Fast & Lightweight** – Optimized for speed and efficiency  
-- **Open Source** – Feel free to contribute and enhance Steezy AI
+- **Open Source** – Feel free to contribute and enhance Steezy.AI
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to get **Steezy AI** running on your local machine:
 
 2. Navigate to the project directory:
 
-cd Steezy-AI
+cd Steezy.AI
 
 
 3. Install the necessary dependencies:
@@ -66,13 +66,13 @@ npm start
 📖 Usage
 
 Once the bot is running, you can interact with it by using various commands.
-To customize Steezy AI, modify the config.js file and adjust settings like platform tokens, command prefixes, etc.
+To customize Steezy.AI, modify the config.js file and adjust settings like platform tokens, command prefixes, etc.
 
 Example Commands:
 
 !help – Get a list of available commands
 
-!greet – Have Steezy AI greet you
+!greet – Have Steezy.AI greet you
 
 !joke – Get a random joke
 
@@ -82,7 +82,7 @@ Example Commands:
 
 🛠️ Contributing
 
-We welcome contributions to Steezy AI! If you have an idea for a new feature or fix, feel free to submit a pull request.
+We welcome contributions to Steezy.AI! If you have an idea for a new feature or fix, feel free to submit a pull request.
 
 1. Fork the repository
 
@@ -112,7 +112,7 @@ If you have any questions or issues, please open an issue in the repository, or 
 
 📄 License
 
-Steezy AI is licensed under the MIT License. See the LICENSE file for more details.
+Steezy.AI is licensed under the MIT License. See the LICENSE file for more details.
 
 
 ---
@@ -129,12 +129,12 @@ OpenAI – For the AI language model (if applicable).
 ### **Explanation:**
 - **Stars Badge**:  
    It shows the number of stars your repository has.
-   - URL: `https://img.shields.io/github/stars/Seansteezy/Steezy-AI?style=social`
+   - URL: `https://img.shields.io/github/stars/Seansteezy/Steezy.AI?style=social`
    
 - **Forks Badge**:  
    It shows how many times your repository has been forked.
-   - URL: `https://img.shields.io/github/forks/Seansteezy/Steezy-AI?style=social`
+   - URL: `https://img.shields.io/github/forks/Seansteezy/Steezy.AI?style=social`
 
 ### **Verify on GitHub**:
 - Go to your repository at:  
-   [Steezy AI GitHub Repository](https://github.com/Seansteezy/Steezy-AI)
+   [Steezy.AI GitHub Repository](https://github.com/Seansteezy/Steezy.AI)
